@@ -2,7 +2,7 @@
 
 This repository contains a simple, interactive Google Colab notebook for running the **Spark-X2.6-1.7B** language model. This notebook allows you to easily chat with the AI, utilize its advanced "thinking" modes, and see the text stream in real time, all running locally on a free Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=_CyOUbm-bR0)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1kRytdn-pNhL4Lk12xuJxcIzKwLWZQ83v?usp=sharing)
 
